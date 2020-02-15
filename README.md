@@ -8,7 +8,7 @@ Automatic Way:
 
 script to download manifests, sync repo and build:
 
-    curl --create-dirs -L -o build.sh -O -L https://raw.github.com/JonasCardoso/android_.repo_local_manifest/lineage-17.1/build.sh
+    curl --create-dirs -L -o build.sh -O -L https://raw.github.com/PixelExperience-Xiaomi-MSM8996/android_.repo_local_manifest/lineage-17.1/build.sh
 
 To use:
 
@@ -26,7 +26,7 @@ To initialize LineageOS 17.1 Repo:
 
 To initialize Manifest for all devices:
 
-    curl --create-dirs -L -o .repo/local_manifests/xiaomi_msm8996_default.xml -O -L https://raw.github.com/JonasCardoso/android_.repo_local_manifest/lineage-17.1/xiaomi_msm8996_default.xml
+    curl --create-dirs -L -o .repo/local_manifests/xiaomi_msm8996_default.xml -O -L https://raw.github.com/PixelExperience-Xiaomi-MSM8996/android_.repo_local_manifest/lineage-17.1/xiaomi_msm8996_default.xml
 
 ---
 
