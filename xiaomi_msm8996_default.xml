@@ -10,11 +10,12 @@
   <project path="device/xiaomi/natrium" name="device_xiaomi_natrium" remote="github-jonas" revision="ten" />
   <project path="device/xiaomi/lithium" name="device_xiaomi_lithium" remote="github-jonas" revision="ten" />
   <project path="device/xiaomi/scorpio" name="device_xiaomi_scorpio" remote="github-jonas" revision="ten" />
-  <project path="kernel/xiaomi/msm8996" name="JonasCardoso/android_kernel_xiaomi_msm8996" remote="github" revision="ten-3.18.x" />
+  <project path="kernel/xiaomi/msm8996" name="JonasCardoso/android_kernel_xiaomi_msm8996" remote="github" revision="hmp-q" />
 
   <!-- Vendor -->
-  <project path="vendor/xiaomi" name="proprietary_vendor_xiaomi" remote="github-jonas" revision="ten-3.18.x"/>
+  <project path="vendor/xiaomi" name="proprietary_vendor_xiaomi" remote="github-jonas" revision="ten"/>
 
   <!-- Packages -->
   <project path="packages/apps/WallpapersBReel2019" name="packages_apps_WallpapersBReel2019" remote="pixel-gitlab" revision="ten" />
 </manifest>
+
