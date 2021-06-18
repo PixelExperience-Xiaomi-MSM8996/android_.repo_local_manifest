@@ -10,10 +10,10 @@
   <project path="device/xiaomi/gemini" name="device_xiaomi_gemini" revision="lineage-17.1" remote="github-jonas"/>
 
   <!-- Common Project -->
-  <project path="vendor/xiaomi" name="proprietary_vendor_xiaomi" revision="ten-3.18.x" remote="github-jonas"/>
-  <project path="kernel/xiaomi/msm8996" name="JonasCardoso/android_kernel_xiaomi_msm8996" revision="ten-3.18.x" remote="gb"/>
+  <project path="vendor/xiaomi" name="proprietary_vendor_xiaomi" revision="ten-gps" remote="github-jonas"/>
+  <project path="kernel/xiaomi/msm8996" name="JonasCardoso/android_kernel_xiaomi_msm8996" revision="hmp-q" remote="gb"/>
   <project path="device/xiaomi/msm8996-common" name="device_xiaomi_msm8996-common" revision="lineage-17.1" remote="github-jonas"/>
-  
+  <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" revision="lineage-17.1"/>
   <!-- TWRP -->
   <!--<project path="bootable/recovery-omni" name="omnirom/android_bootable_recovery" revision="android-9.0" remote="gb">-->
 
